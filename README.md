@@ -1,1 +1,10 @@
-# jeonju_accomodations
+### 찾아줘! 전주 숙박 가능 업소!!...
+
+- <a href="https://www.data.go.kr/">공공데이터 포털</a>에서 전주 숙박 가능 업소 open API 데이터를 JSON 형식으로 받아와 목록으로 출력
+- 목록의 아이템을 클릭하면 가운데 박스 내용이 클릭한 업소 정보 내용으로 갱신
+- 동시에 클릭한 숙박 가능 업소의 장소를 기준으로 위치를 검색하여 그 위치로 지도를 이동, 마커 표시
+- <a href="https://apis.map.kakao.com/">kakaomap API...</a>
+
+### 빌드하기
+
+- 서버 필요
